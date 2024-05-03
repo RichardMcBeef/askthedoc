@@ -1,5 +1,4 @@
 import streamlit as st
-import sqlite3
 from langchain.llms import OpenAI
 from langchain.text_splitter import CharacterTextSplitter
 from langchain.embeddings import OpenAIEmbeddings
